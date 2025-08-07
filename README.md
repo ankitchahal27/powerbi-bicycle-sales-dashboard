@@ -66,7 +66,7 @@ A fully interactive Power BI report built to analyze key business metrics of a f
 
 ---
 
-## 🛠 Tools & Skills Used
+##  Tools & Skills Used
 
 - **Power BI Desktop**
 - DAX (Data Analysis Expressions)
@@ -78,12 +78,12 @@ A fully interactive Power BI report built to analyze key business metrics of a f
 
 ---
 
-## 🎯 Purpose of This Project
+##  Purpose of This Project
 
 This self-directed project demonstrates:
 - Proficiency in Power BI dashboard development
 - Ability to communicate insights effectively
-- Simulating business decision-making using fictional data
+- Simulating business decision-making using data
 
 ---
 
