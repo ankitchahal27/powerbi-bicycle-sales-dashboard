@@ -4,15 +4,15 @@ A fully interactive Power BI report built to analyze key business metrics of a f
 
 ---
 
-## 🖼️ Dashboard Overview
+##  Dashboard Overview
 
 <img src="images/Report_FINAL_page-0001.jpg" width="100%"/>
 
 ---
 
-## 📊 Report Pages Breakdown
+##  Report Pages Breakdown
 
-### 📌 Page 1: Executive Summary
+###  Page 1: Executive Summary
 - KPIs showing **Total Revenue ($24.9M)**, **Profit ($10.5M)**, **Orders (25.2K)**, and **Return Rate (2.2%)**
 - Revenue trend analysis across 2.5 years
 - Orders by category (Bikes, Accessories, Clothing)
@@ -21,7 +21,7 @@ A fully interactive Power BI report built to analyze key business metrics of a f
 
 ---
 
-### 📌 Page 2: Performance vs Targets
+###  Page 2: Performance vs Targets
 <img src="images/Report_FINAL_page-0002.jpg" width="100%"/>
 
 - Monthly KPIs benchmarked against internal targets
@@ -30,7 +30,7 @@ A fully interactive Power BI report built to analyze key business metrics of a f
 
 ---
 
-### 📌 Page 3: Product-Level Profit Analysis
+###  Page 3: Product-Level Profit Analysis
 <img src="images/Report_FINAL_page-0003.jpg" width="100%"/>
 
 - Product-level metrics (Orders, Revenue, Returns)
@@ -39,7 +39,7 @@ A fully interactive Power BI report built to analyze key business metrics of a f
 
 ---
 
-### 📌 Page 4: Customer Segmentation
+###  Page 4: Customer Segmentation
 <img src="images/Report_FINAL_page-0004.jpg" width="100%"/>
 
 - Customer breakdown by **Income Level** and **Occupation**
@@ -48,7 +48,7 @@ A fully interactive Power BI report built to analyze key business metrics of a f
 
 ---
 
-### 📌 Page 5: Key Influencer Analysis
+###  Page 5: Key Influencer Analysis
 <img src="images/Report_FINAL_page-0005.jpg" width="100%"/>
 
 - AI-generated visuals identifying **drivers of Homeownership**
@@ -57,7 +57,7 @@ A fully interactive Power BI report built to analyze key business metrics of a f
 
 ---
 
-### 📌 Page 6: Data Model View
+###  Page 6: Data Model View
 <img src="images/Model.png" width="100%"/>
 
 - Visual layout of the **data model** used
@@ -86,31 +86,5 @@ This self-directed project demonstrates:
 - Simulating business decision-making using fictional data
 
 ---
-
-## 📂 Repository Structure
-
-
-# Power BI Sales Dashboard – Bicycle Company (Fictional Dataset)
-
-This is a self-directed data analytics project built using **Microsoft Power BI** to simulate executive-level reporting for a fictional bicycle company. The report provides deep insights into sales, profitability, product returns, and customer behavior across regions and time periods.
-
-##  Dashboard Highlights
-
-- **$24.9M Revenue** and **$10.5M Profit** overview
-- Monthly trends in **Revenue**, **Orders**, and **Returns**
-- Drilldown by **Product Category**, **Top Products**, and **Return Rates**
-- Geographic performance: **United States**, **Australia**, **UK**, **France**, **Germany**
-- **Customer Segmentation** based on Occupation, Income, and Order Behavior
-- **Key Influencer Visuals** for retail price and homeownership patterns
-- Performance vs. **Monthly Targets** (Revenue, Profit, Orders)
-
-## Tools Used
-
-- **Power BI Desktop**
-- DAX (Data Analysis Expressions)
-- Power Query (ETL)
-- Data modeling
-
-
 
 
