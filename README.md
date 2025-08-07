@@ -1,4 +1,4 @@
-# 🚴‍♂️ Power BI Sales Dashboard – Bicycle Company
+#  Power BI Sales Dashboard – Bicycle Company
 
 A fully interactive Power BI report built to analyze key business metrics of a fictional bicycle company. The report highlights insights across sales, profitability, returns, customer demographics, and product performance.
 
